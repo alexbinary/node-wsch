@@ -1,0 +1,26 @@
+{
+  "name": "wsch",
+  "version": "1.0.0",
+  "description": "Simple websocket connection handler for `websocketserverhelper` package.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexbinary/node-wsch.git"
+  },
+  "keywords": [
+    "websocket",
+    "web",
+    "socket"
+  ],
+  "author": "Alexandre Bintz <alexandre.bintz@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexbinary/node-wsch/issues"
+  },
+  "homepage": "https://github.com/alexbinary/node-wsch"
+}
