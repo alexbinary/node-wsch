@@ -75,6 +75,7 @@ This can be used to send initial data, or start a data reception service.
 ### onClose(connectionHandle, code, reason)
 
 This function is called when the connection is closed, either locally or remotely.
+
 `code` is the close code, see https://developer.mozilla.org/en-US/docs/Web/API/CloseEvent#Close_codes  
 `reason` is a human readable string explaining why the connection was closed.
 
